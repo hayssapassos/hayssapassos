@@ -2,7 +2,7 @@
 
 **`Gestão de Dados`**
 
-Me chamo Hayssa Passos, tenho 32 anos e sou natural do Piauí. Sou Bacharel em Administração (IESM) com espealizações em Empreendedorismo e Inovação (IFPI), Gestão Financeira e Controladoria (FAVENI), e Sustentabilidade (UEMA),possuo o curso Técnico em informática para internet (IFSULDEMINAS) e o Técnico em Desenvolvimento de Sistemas (FAT). Atualmente, estou cursando Técnologia de Gestão de Dados na UFPI. Sou apaixonada por tecnologia e por aprendizagem continua compartilho meu conhecimento através do meu canal no YouTube "[Mhyzainfo](https://www.youtube.com/@Mhyzainfo)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/mhyzainfo)".
+Olá! Me chamo Hayssa Passos, tenho 32 anos e sou natural do Piauí. Sou Bacharel em Administração (IESM) com espealizações em Empreendedorismo e Inovação (IFPI), Gestão Financeira e Controladoria (FAVENI), e Sustentabilidade (UEMA),possuo o curso Técnico em informática para internet (IFSULDEMINAS) e o Técnico em Desenvolvimento de Sistemas (FAT). Atualmente, estou cursando Técnologia de Gestão de Dados na UFPI. Sou apaixonada por tecnologia e por aprendizagem continua compartilho meu conhecimento através do meu canal no YouTube "[Mhyzainfo](https://www.youtube.com/@Mhyzainfo)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/mhyzainfo)".
 
 <p align="left">
     <a href="https://www.youtube.com/@Mhyzainfo">
